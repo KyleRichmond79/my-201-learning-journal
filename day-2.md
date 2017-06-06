@@ -1,4 +1,4 @@
-# Learning Journal: Day 2
+git # Learning Journal: Day 2
 
 Today I shredded all kinds of codez.
 
